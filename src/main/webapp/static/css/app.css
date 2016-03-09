@@ -1,0 +1,148 @@
+body, #mainWrapper {
+	background-color:rgb(245, 245, 245);
+}
+
+body, .form-control{
+	font-size:15px!important;
+}
+
+.title {
+    margin-top: 65px; 
+    margin-left: 50%;
+    border-bottom: none; 
+    padding: 3px; 
+    display: inline; 
+    font-size: 21pt;
+    font-weight: bold; 
+    margin: 0; 
+    white-space: nowrap; 
+    color: #CC00CC;
+    font-family: "Courier New", Courier, monospace;
+}
+.floatRight{
+	float:right;
+	margin-right: 20px;
+}
+.has-error{
+	color:red;
+}
+.formcontainer{
+	background-color: #DAE8E8;
+	padding: 20px;
+}
+.generic-container {
+  width: 75%;
+  margin-left: 60px;
+  margin-top: 35px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #EAE7E7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 25px blue;
+}
+.custom-width {
+    width: 80px !important;
+}
+.entryTitle {
+    color: #8B008B;    
+	font-size: 19px;    
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+ }
+ .formTitle {
+    color: #77DD77;  
+    font-size: 24px;
+ }
+ .buttonStyle {
+    border: 1px solid black; 
+    border-radius: 5px;  
+    box-shadow: 0 0 30px blue;
+	padding: 5px;
+    font-size: 17px;
+	background-color: orange; 
+	color: white;
+	font-weight: bold;    
+   }
+ .radio{   
+    margin-top: 160px; 
+    margin-left: 70px;          
+    display: inline;
+    border: 1px solid black;  
+    padding: 10px; 
+    border-radius: 5px;  
+    box-shadow: 0 0 12px blue;
+    background-color: #EAE7E7; 
+    color: red;	    
+    font-family: "Courier New", Courier, monospace;;
+    font-size: 20px;
+}
+.label {
+	color: red;	
+	font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 19px;
+}
+.except{  
+	position: fixed;    
+	margin-left: 110px;     
+    top: 38%;        
+    margin-left: 140px;          
+    display: inline;
+    border: 1px solid black;  
+    padding: 10px; 
+    border-radius: 5px;  
+    box-shadow: 0 0 12px blue;
+    background-color: red; 
+    color: white;	    
+    font-size: 22px;    
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+}
+.answer{        
+	position: fixed;        
+    margin-left: 110px;     
+    margin-top: 30px;          
+    display: inline;
+    border: 1px solid black;  
+    padding: 10px; 
+    border-radius: 5px;  
+    box-shadow: 0 0 12px blue;
+    background-color: #DAE8E8; 
+    color: red;	    
+    font-size: 20px;
+    font-weight: bold;    
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+}
+.sended{
+	position: fixed;
+	top: 62%; 
+    margin-left: 110px;             
+    display: inline;
+    border: 1px solid black;  
+    padding: 10px; 
+    border-radius: 5px;  
+    box-shadow: 0 0 12px blue;
+    background-color: #EAE7E7; 
+    color: blue;	    
+    font-size: 21px;    
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+    
+}
+.waiting{             
+    position: fixed;       
+    margin-left: 110px;            
+    top: 62%;         
+    display: inline;
+    border: 1px solid black;  
+    padding: 10px; 
+    border-radius: 5px;  
+    box-shadow: 0 0 12px blue;   
+    color: #CC00CC;	    
+    font-size: 21px;    
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+    
+}
